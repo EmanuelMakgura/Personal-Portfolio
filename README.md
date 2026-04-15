@@ -89,7 +89,14 @@ portfolio
 │ ├── 6.JPG
 │ └── Lab.JPG
 │
-└── README.md
+├── thumbnails
+│ ├── calculator.png
+│ ├── loveapp.png
+│ ├── home.png
+│ └── gaming.png
+├──DOCUMENTATION.md
+|
+└──README.md
 
 
 ---
@@ -108,9 +115,6 @@ portfolio
 
 Some improvements planned for this portfolio include:
 
-- Connecting the contact form to email
-- Adding more animations
-- Improving JavaScript functionality
 - Creating a downloadable CV section
 
 ---
