@@ -102,11 +102,12 @@ portfolio
 
 # ⚙️ Features
 
-- Responsive design
-- Mobile navigation menu
-- Social media links
-- Contact form
-- Project showcase section
+- Responsive Liquid Glass Design
+- Mobile Navigation Menu
+- Social Media Links
+- Contact Form
+- Project Showcase Section
+- Light and Dark mode toggle
 
 ---
 
