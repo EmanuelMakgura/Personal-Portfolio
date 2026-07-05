@@ -56,26 +56,31 @@ This project was built using:
 The portfolio contains the following sections:
 
 ### Home
+
 Introduces who I am and my career goals.
 
 ### About
+
 Provides information about my background, education, and motivation.
 
 ### Expertise
+
 Shows my current skills, tools I use, and areas I am improving.
 
 ### Projects
+
 Displays projects I have worked on.
 
 ⚠️ Project information will be added after I upload them to GitHub and include screenshots.
 
 ### Contact
+
 A contact form that allows visitors to send messages.
 
 ---
 
-
 # 📁 Project Structure
+
 portfolio
 │
 ├── index.html
@@ -97,16 +102,15 @@ portfolio
 |
 └──README.md
 
-
 ---
 
 # ⚙️ Features
 
-- Responsive Liquid Glass Design
-- Mobile Navigation Menu
-- Social Media Links
-- Contact Form
-- Project Showcase Section
+- Responsive liguid glass design
+- Mobile navigation menu
+- Social media links
+- Contact form
+- Project showcase section
 - Light and Dark mode toggle
 
 ---
@@ -133,7 +137,6 @@ https://www.facebook.com/profile.php?id=61578530273055
 
 # 📄 License
 
-This project is open for learning purposes and personal development.
+This project is not open for learning purposes its a personal portfolio.
 
 © 2026 Emanuel M.
-
